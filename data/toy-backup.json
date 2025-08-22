@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "t101",
+        "name": "Talking Doll",
+        "price": 123,
+        "labels": ["Doll", "Battery Powered", "Baby"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true,
+        "imgUrl": "https: //picsum.photos/200/200?random=101"
+    },
+    {
+        "_id": "t102",
+        "name": "Puzzle Game",
+        "price": 85,
+        "labels": ["Puzzle", "Box game"
+        ],
+        "createdAt": 1631031801012,
+        "inStock": false,
+        "imgUrl": "https: //picsum.photos/200/200?random=102"
+    },
+    {
+        "_id": "t103",
+        "name": "Outdoor Car",
+        "price": 150,
+        "labels": ["On wheels", "Outdoor", "Battery Powered"
+        ],
+        "createdAt": 1631031801013,
+        "inStock": true,
+        "imgUrl": "https: //picsum.photos/200/200?random=103"
+    },
+    {
+        "_id": "t104",
+        "name": "Art Kit",
+        "price": 95,
+        "labels": ["Art", "Baby"
+        ],
+        "createdAt": 1631031801014,
+        "inStock": true,
+        "imgUrl": "https: //picsum.photos/200/200?random=104"
+    }
+]

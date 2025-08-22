@@ -1,0 +1,58 @@
+[
+  {
+    "name": "John 5",
+    "price": 123,
+    "inStock": false,
+    "imgUrl": "https://picsum.photos/200/200?random=999",
+    "labels": [
+      "On wheels",
+      "Outdoor",
+      "Box game"
+    ],
+    "createdAt": 1755257317019
+  },
+  {
+    "name": "A",
+    "price": 35,
+    "inStock": true,
+    "imgUrl": "https://picsum.photos/200/200?random=999",
+    "labels": [
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1755258992687
+  },
+  {
+    "name": "koko",
+    "price": 55,
+    "inStock": true,
+    "imgUrl": "https://picsum.photos/200/200?random=999",
+    "labels": [
+      "Puzzle"
+    ],
+    "createdAt": 1755259062034
+  },
+  {
+    "name": "bobo",
+    "price": 888,
+    "inStock": false,
+    "imgUrl": "https://picsum.photos/200/200?random=823",
+    "labels": [
+      "Puzzle",
+      "Art",
+      "Baby"
+    ],
+    "createdAt": 1752972255115
+  },
+  {
+    "name": "Toy-6073",
+    "price": 151,
+    "inStock": true,
+    "imgUrl": "https://picsum.photos/200/200?random=356",
+    "labels": [
+      "Box game",
+      "Battery Powered"
+    ],
+    "createdAt": 1753430592477
+  }
+]
